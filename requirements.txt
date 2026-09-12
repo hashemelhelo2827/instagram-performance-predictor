@@ -8,4 +8,6 @@ ipykernel
 nbconvert
 scikit-learn
 scipy
+lightgbm
+xgboost
 
