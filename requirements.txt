@@ -5,4 +5,7 @@ matplotlib
 python-dotenv
 jupyter
 ipykernel
+nbconvert
+scikit-learn
+scipy
 
